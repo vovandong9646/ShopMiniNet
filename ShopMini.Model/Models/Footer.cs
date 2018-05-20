@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace ShopMini.Model.Models
 {
     [Table("Footers")]
-    class Footer
+    public class Footer
     {
         [Key]
         [MaxLength(50)]

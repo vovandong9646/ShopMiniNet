@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace ShopMini.Model.Models
 {
     [Table("PostTags")]
-    class PostTag
+    public class PostTag
     {
         [Key]
         public int PostID { get; set; }

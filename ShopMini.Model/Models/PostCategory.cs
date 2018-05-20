@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace ShopMini.Model.Models
 {
     [Table("PostCategories")]
-    class PostCategory : AudiTable
+    public class PostCategory : AudiTable
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

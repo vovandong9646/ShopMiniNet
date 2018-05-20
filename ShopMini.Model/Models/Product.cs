@@ -11,7 +11,7 @@ using System.Xml.Linq;
 namespace ShopMini.Model.Models
 {
     [Table("Products")]
-    class Product : AudiTable
+    public class Product : AudiTable
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

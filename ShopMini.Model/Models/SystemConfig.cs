@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace ShopMini.Model.Models
 {
     [Table("SystemConfigs")]
-    class SystemConfig
+    public class SystemConfig
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace ShopMini.Model.Models
 {
     [Table("GroupMenus")]
-    class GroupMenu
+    public class GroupMenu
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

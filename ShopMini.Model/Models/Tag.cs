@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace ShopMini.Model.Models
 {
     [Table("Tags")]
-    class Tag
+    public class Tag
     {
         [Key]
         [MaxLength(50)]

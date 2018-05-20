@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 namespace ShopMini.Model.Models
 {
     [Table("ProductCategories")]
-    class ProductCategory :AudiTable
+    public class ProductCategory :AudiTable
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]

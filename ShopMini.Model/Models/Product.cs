@@ -11,7 +11,7 @@ using System.Xml.Linq;
 namespace ShopMini.Model.Models
 {
     [Table("Products")]
-    class Product : AudiTable
+    public class Product : AudiTable
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -32,7 +32,8 @@ namespace ShopMini.Model.Models
         [MaxLength(256)]
         public string Image { get; set; }
 
-        public XElement MoreImages { get; set; }
+        [Column(TypeName = "xml")]
+        public string MoreImages { get; set; }
 
         [Required]
         public decimal Price { get; set; }

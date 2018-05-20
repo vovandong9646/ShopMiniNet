@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace ShopMini.Model.Models
 {
     [Table("SupportOnlines")]
-    class SupportOnline
+    public class SupportOnline
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
@@ -35,8 +35,7 @@ namespace ShopMini.Model.Models
 
         [MaxLength(50)]
         public string Facebook { get; set; }
-
-        [MaxLength(50)]
+        
         public bool Status { get; set; }
 
         public int? DisplayOrder { get; set; }

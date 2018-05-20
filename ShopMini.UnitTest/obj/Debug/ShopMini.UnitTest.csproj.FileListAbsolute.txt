@@ -1,0 +1,7 @@
+D:\GIT\ShopMiniNet\ShopMini.UnitTest\bin\Debug\ShopMini.UnitTest.dll
+D:\GIT\ShopMiniNet\ShopMini.UnitTest\bin\Debug\ShopMini.UnitTest.pdb
+D:\GIT\ShopMiniNet\ShopMini.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GIT\ShopMiniNet\ShopMini.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\GIT\ShopMiniNet\ShopMini.UnitTest\obj\Debug\ShopMini.UnitTest.csprojResolveAssemblyReference.cache
+D:\GIT\ShopMiniNet\ShopMini.UnitTest\obj\Debug\ShopMini.UnitTest.dll
+D:\GIT\ShopMiniNet\ShopMini.UnitTest\obj\Debug\ShopMini.UnitTest.pdb

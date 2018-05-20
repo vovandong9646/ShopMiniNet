@@ -2,7 +2,7 @@
 
 namespace ShopMini.Model.Abstract
 {
-    internal interface IAudiTable
+    public interface IAudiTable
     {
         string MetaKeyword { get; set; }
         string MetaDescription { get; set; }

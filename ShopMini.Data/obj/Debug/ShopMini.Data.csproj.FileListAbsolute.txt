@@ -8,3 +8,9 @@ D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\EntityFramework.SqlServer.xml
 D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.csprojResolveAssemblyReference.cache
 D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.dll
 D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.pdb
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\ShopMini.Common.dll
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\ShopMini.Model.dll
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\ShopMini.Common.pdb
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\ShopMini.Model.pdb
+D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.Migrations.initialdb.resources
+D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.csproj.GenerateResource.Cache

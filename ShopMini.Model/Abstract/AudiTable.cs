@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ShopMini.Model.Abstract
 {
-    internal class AudiTable : IAudiTable
+    public class AudiTable : IAudiTable
     {
         [MaxLength(256)]
         public string CreatedBy { get; set; }

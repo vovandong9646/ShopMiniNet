@@ -1,0 +1,5 @@
+D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\ShopMini.Service.dll
+D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\ShopMini.Service.pdb
+D:\GIT\ShopMiniNet\ShopMini.Service\obj\Debug\ShopMini.Service.csprojResolveAssemblyReference.cache
+D:\GIT\ShopMiniNet\ShopMini.Service\obj\Debug\ShopMini.Service.dll
+D:\GIT\ShopMiniNet\ShopMini.Service\obj\Debug\ShopMini.Service.pdb

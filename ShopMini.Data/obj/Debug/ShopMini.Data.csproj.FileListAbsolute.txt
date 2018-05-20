@@ -1,0 +1,10 @@
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\ShopMini.Data.dll.config
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\ShopMini.Data.dll
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\ShopMini.Data.pdb
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\EntityFramework.dll
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\EntityFramework.xml
+D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.csprojResolveAssemblyReference.cache
+D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.dll
+D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.pdb

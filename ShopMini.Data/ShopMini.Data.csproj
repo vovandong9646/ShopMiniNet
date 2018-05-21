@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ShopMini.Data</RootNamespace>
     <AssemblyName>ShopMini.Data</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -60,17 +61,22 @@
     <Compile Include="Migrations\201805200740504_initialdb.Designer.cs">
       <DependentUpon>201805200740504_initialdb.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201805201502547_AddErrorTable.cs" />
+    <Compile Include="Migrations\201805201502547_AddErrorTable.Designer.cs">
+      <DependentUpon>201805201502547_AddErrorTable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="MiniShopDbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\ErrorRepository.cs" />
+    <Compile Include="Repositories\PostRepository.cs" />
+    <Compile Include="Repositories\ProductRepository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\ShopMini.Common\ShopMini.Common.csproj">
       <Project>{1fcb09d9-bdd0-4de9-970f-74f12080b58b}</Project>
@@ -87,6 +93,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\201805200740504_initialdb.resx">
       <DependentUpon>201805200740504_initialdb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201805201502547_AddErrorTable.resx">
+      <DependentUpon>201805201502547_AddErrorTable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

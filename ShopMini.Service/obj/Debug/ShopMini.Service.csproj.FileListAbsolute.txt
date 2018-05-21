@@ -3,3 +3,11 @@ D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\ShopMini.Service.pdb
 D:\GIT\ShopMiniNet\ShopMini.Service\obj\Debug\ShopMini.Service.csprojResolveAssemblyReference.cache
 D:\GIT\ShopMiniNet\ShopMini.Service\obj\Debug\ShopMini.Service.dll
 D:\GIT\ShopMiniNet\ShopMini.Service\obj\Debug\ShopMini.Service.pdb
+D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\ShopMini.Common.dll
+D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\ShopMini.Data.dll
+D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\ShopMini.Model.dll
+D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\EntityFramework.dll
+D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\ShopMini.Common.pdb
+D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\ShopMini.Data.pdb
+D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\ShopMini.Model.pdb
+D:\GIT\ShopMiniNet\ShopMini.Service\bin\Debug\EntityFramework.xml

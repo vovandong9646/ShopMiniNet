@@ -14,3 +14,4 @@ D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\ShopMini.Common.pdb
 D:\GIT\ShopMiniNet\ShopMini.Data\bin\Debug\ShopMini.Model.pdb
 D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.Migrations.initialdb.resources
 D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.csproj.GenerateResource.Cache
+D:\GIT\ShopMiniNet\ShopMini.Data\obj\Debug\ShopMini.Data.Migrations.AddErrorTable.resources

@@ -2,3 +2,4 @@ D:\GIT\ShopMiniNet\ShopMini.Common\bin\Debug\ShopMini.Common.dll
 D:\GIT\ShopMiniNet\ShopMini.Common\bin\Debug\ShopMini.Common.pdb
 D:\GIT\ShopMiniNet\ShopMini.Common\obj\Debug\ShopMini.Common.dll
 D:\GIT\ShopMiniNet\ShopMini.Common\obj\Debug\ShopMini.Common.pdb
+D:\GIT\ShopMiniNet\ShopMini.Common\obj\Debug\ShopMini.Common.csprojResolveAssemblyReference.cache

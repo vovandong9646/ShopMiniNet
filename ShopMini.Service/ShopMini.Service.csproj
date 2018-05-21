@@ -9,8 +9,9 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ShopMini.Service</RootNamespace>
     <AssemblyName>ShopMini.Service</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -40,7 +41,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ErrorService.cs" />
+    <Compile Include="PostService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ShopMini.Common\ShopMini.Common.csproj">
+      <Project>{1fcb09d9-bdd0-4de9-970f-74f12080b58b}</Project>
+      <Name>ShopMini.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShopMini.Data\ShopMini.Data.csproj">
+      <Project>{cd9c80fe-36ff-4bd1-9aff-0523d29d7dc4}</Project>
+      <Name>ShopMini.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ShopMini.Model\ShopMini.Model.csproj">
+      <Project>{8664f5ab-928e-49be-9bf6-0a8fcda72a39}</Project>
+      <Name>ShopMini.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

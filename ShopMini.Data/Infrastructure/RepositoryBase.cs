@@ -38,9 +38,9 @@ namespace ShopMini.Data.Infrastructure
         }
 
         #region Implementation
-        public virtual void Add(T entity)
+        public virtual T Add(T entity)
         {
-            dbSet.Add(entity);
+            return dbSet.Add(entity);
         }
 
         public virtual void Update(T entity)
